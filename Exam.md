@@ -68,6 +68,12 @@ tekniska loggar.
 
 Säkerhet vid inlogg, säkerhet kring privat information, säkerhet kring betal medels information, säkerhet om tjänsten skulle stöta  på tekniska problem så den inte står stilla, teknisk säkerhet kring inlogg privat info och betal så allt är smidigt snabbt och lätt för användaren.
 
+Betal och information om betal uppgifter den säkerheten som är viktigast för oss användare, kan tänka mig att den säkerheten är mer omfattande än vad jag kan tänka mig, skulle gärna se lite hur sån kod ser ut för att få en bild i huvet.
+
+Samt säkerhet kring Api nycklar som inte får komma ut, man vill inte att nån missbrukar mitt namn eller liknande kanske överbelastar tjänsten.
+
+Måste också finnas nåt som ser att information läckt så man kan varna sina användare så folk kan uppmärksamma om nåt händer i deras namn eller inne i den tjänsten.
+
 
 
 **-Finns det risker:**
@@ -77,6 +83,10 @@ Finns väl alltid risker för kraschar, att info kan läcka, brand i serverhall,
 finns en hel del man kan tänka på som kan gå fel. Därför dom har folk som jobbar med detta dygnet runt, runt om i världen.
 
 Det är nog mycket större risker med betal och betal information än vad man tror, det är väl det som kunderna är mest rädda över att bli av med.
+
+Samt person nummer osv, kunden ska ju kunna vara så säker som möjligt,
+
+Så i det hela skydda sig från dataintrång overall för att skydda så mycket som möjligt, alltid försöka ligga före och förebygga göra det så svårt som möjligt för piraterna/sabotörer.
 
 
 
