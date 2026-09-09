@@ -139,11 +139,17 @@ Om "Ja"
 
 sökSkriv "Bokens Namn"
 
+&#x09;
+
 kontrollera om den finns
 
-&#x09;om ja
+&#x09;om nej 
 
-&#x09;om nej ny sökning
+&#x09;	skriv "boken finns ej"
+
+&#x09;		ny sökning
+
+
 
 kontrollera antalet "lånade böcker"
 
@@ -158,6 +164,8 @@ kontrollera om man antal mindre än "2"
 
 
 isf markera som utlånad
+
+skriv nu är boken utlånad
 
 
 
